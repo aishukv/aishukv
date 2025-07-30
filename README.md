@@ -2,7 +2,7 @@
 🎓 M.Sc. Biomedical Engineering
 Heidelberg University, Germany
 📍 Based in Mannheim | 📬 aishwarya.kannan@stud.uni-heidelberg.de
-🔗 LinkedIn | GitHub
+🔗 LinkedIn-https://www.linkedin.com/in/msaishwaryakannan/ | GitHub
 
 🌱 Who Am I?
 I’m a passionate Biomedical Engineering graduate student with a deep interest in healthcare technology, biosignal processing, and medical imaging. My academic background and hands-on projects reflect my commitment to applying engineering solutions to improve lives.
