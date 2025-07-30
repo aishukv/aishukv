@@ -8,7 +8,7 @@ Heidelberg University, Germany
 🌱 Who Am I?
 I’m a passionate Biomedical Engineering graduate student with a deep interest in healthcare technology, biosignal processing, and medical imaging. My academic background and hands-on projects reflect my commitment to applying engineering solutions to improve lives.
 
-🧠 Interests
+🧠 Interests-
 Biomedical Signal & Image Processing
 
 Healthcare AI & Deep Learning
@@ -22,7 +22,7 @@ Digital Health Technologies
 🛠 Tools & Skills
 Languages: Python, MATLAB, HTML/CSS
 
-Frameworks: Flask, YOLOv5, PyTorch
+Frameworks: Flask, YOLOv8, PyTorch
 
 Tools: Git, VS Code, Jupyter, OpenCV
 
@@ -30,12 +30,12 @@ Other: Biosignal Preprocessing, ECG/PPG/ACC Analysis, Medical Device Design, Ard
 
 📁 Featured Projects
 
-🦴 Osteoporosis Detection Web App – Deep learning model using YOLOv5 for real-time X-ray analysis
+🦴 Osteoporosis Detection Web App – Deep learning model using YOLOv8 for real-time X-ray analysis
 
 💉 Pressure Cuff Simulation – Animated Flask app demonstrating blood pressure measurement principles
 
 
-🌍 Goals
+🌍 Goals-
 
 Build innovative healthtech solutions
 
