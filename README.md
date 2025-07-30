@@ -1,4 +1,5 @@
-👩‍💻 About Me – Aishwarya Kannan
+👩‍💻 About Me –
+Aishwarya Kannan
 🎓 M.Sc. Biomedical Engineering
 Heidelberg University, Germany
 📍 Based in Mannheim | 📬 aishwarya.kannan@stud.uni-heidelberg.de
@@ -28,12 +29,14 @@ Tools: Git, VS Code, Jupyter, OpenCV
 Other: Biosignal Preprocessing, ECG/PPG/ACC Analysis, Medical Device Design, Arduino, 3D Modeling
 
 📁 Featured Projects
+
 🦴 Osteoporosis Detection Web App – Deep learning model using YOLOv5 for real-time X-ray analysis
 
 💉 Pressure Cuff Simulation – Animated Flask app demonstrating blood pressure measurement principles
 
 
 🌍 Goals
+
 Build innovative healthtech solutions
 
 Collaborate with German med-tech companies
